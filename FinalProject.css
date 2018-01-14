@@ -73,7 +73,7 @@ background-image: url("pollution.png");
 /*Make the font color as black and family as Times New Roman */
 .myFont {
  font-size:25;
- color: black;
+ color: white;
  font-family: "Times New Roman";
 }
 
