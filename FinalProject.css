@@ -3,13 +3,13 @@
 }
 
 .h1 {
-    color: navy;
+    color: white;
     margin-left: 20px;
-font:Arial
+	font:Arial
 } 
 
 body {
-background-image: url("pollution.png");
+	background-image: url("pollution_image.jpg");
     background-repeat: no-repeat;
 } 
 
