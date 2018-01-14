@@ -1,0 +1,83 @@
+.body1 {
+    background-color: lightblue;
+}
+
+.h1 {
+    color: navy;
+    margin-left: 20px;
+font:Arial
+} 
+
+body {
+background-image: url("landpollution.jpg");
+    background-repeat: no-repeat;
+} 
+
+/* This is the back button. Make it red color with white text and font as Verdana*/
+.backButton {
+	color:white;
+	background-color:red;
+	font-size: 30;
+	font-family: "Verdana";
+	width:12em;
+	height: 3em;
+}
+
+/*Make the button background as yellow */
+.yellowButton {
+	color:black;
+	background-color:yellow;
+	font-size: 50;
+	width:10em;
+	height: 5em;
+}
+
+/*Make the button background as green */
+.greenButton {
+	color:black;
+	background-color:green;
+	font-size: 50;
+	width:10em;
+	height: 5em;
+}
+
+/*Make the button background as blue */
+.blueButton {
+	color:black;
+	background-color:blue;
+	width:10em;
+	height: 5em;
+}
+
+/*Make the button background as magenta */
+.magentaButton {
+	color:white;
+	background-color:magenta;
+	font-size: 50;
+	font-family: "Verdana"
+	width:15em;
+	height: 5em;
+}
+
+/*Make the button background as orange */
+.orangeButton {
+	color:white;
+	background-color:orange;
+	font-size: 50;
+	font-family: "Verdana"
+	width:20em;
+	height: 5em;
+
+}
+
+/*Make the font color as black and family as Times New Roman */
+.myFont {
+ font-size:25;
+ color: black;
+ font-family: "Times New Roman";
+}
+
+
+
+
+
